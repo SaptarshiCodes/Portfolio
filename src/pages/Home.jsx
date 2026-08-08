@@ -22,7 +22,7 @@ const Home = () => {
             <h1 data-scroll-reveal className="text-zinc-300 text-[2.5vw] font-semibold  font-[font2] pb-[3vw]">
               Saptarshi Manna
             </h1>
-            <h2 data-scroll-reveal className="text-zinc-100 text-[6vw] font-black uppercase whitespace-nowrap font-[font2] tracking-wide transform-[scaleY(2)] origin-center py-[1vw]">
+            <h2 data-scroll-reveal className="text-zinc-100 text-[5.8vw] font-extrabold uppercase whitespace-nowrap font-[font2] tracking-wide transform-[scaleY(2)] origin-center py-[1vw]">
               Crafting
             </h2>
             <h2 data-scroll-reveal className="text-zinc-300/70 text-[4.5vw] uppercase whitespace-nowrap font-[font2] font-extrabold tracking-tight origin-left scale-x-90 transform-[scaleY(2)] py-[1vw]">
