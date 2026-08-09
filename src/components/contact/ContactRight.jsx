@@ -34,7 +34,7 @@ const ContactRight = () => {
             href={items.href}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center text-center gap-[1vw] text-zinc-600 leading-none font-[font1]"
+            className="flex items-center text-center gap-[1vw] text-zinc-100 leading-none font-[font1]"
           >
             <span className="scale-125">{items.icon}</span>
             <h1 className="text-[1.2vw] font-light tracking-wide">
@@ -43,7 +43,7 @@ const ContactRight = () => {
           </a>
         ))}
       </div>
-      <div data-scroll-reveal className="flex items-center gap-[1vw] justify-end mt-[1.2vw] text-zinc-600 font-[font1] leading-none">
+      <div data-scroll-reveal className="flex items-center gap-[1vw] justify-end mt-[1.2vw] text-zinc-100 font-[font1] leading-none">
         <FaLocationDot className="scale-125" />
         <p className="text-[1.2vw] font-light tarcking-wide">
           West Bengal, India
